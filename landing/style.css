@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.topleft{
+    width: 50%;
+    height: auto;
+
+}
+
+.topright{
+    width: 50%;
+    height: 50%;
+}
+
+.size-img{
+    width: 33.33%;
+    height: 33.33%;
+}
+
+.section1{
+    height: 50vh;
+}
+
